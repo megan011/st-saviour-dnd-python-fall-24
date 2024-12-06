@@ -28,7 +28,8 @@ def draw_d4(value: int) -> None:
 def draw_d6(value: int) -> None:
     print("""
  ::::::::::::::
- ::          ::  
+ ::          ::    ;    ;'''         
+       ''':;;   ;;:'''
  ::          ::
  ::    {}     ::
  ::          ::
